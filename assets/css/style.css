@@ -1,0 +1,362 @@
+
+.container_12{
+	background-color: white;   /*#ABDCF1*/
+}
+
+.space{
+	height: 45px;
+}
+
+*{
+	box-sizing:border-box;
+}
+
+.uname{
+	/*background-color: #ABDCF1;*/
+	height:150px;
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top:55px;
+}
+
+.uname img{
+	margin-top: -55px;
+	height: 204px;
+	border-radius: 10px;
+}
+
+.menu{
+	background-color:#17a2b8;
+	height:50px;
+	text-align:center;
+	padding-top: 18px;
+	border-radius: 10px;
+}
+
+.menu a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+
+.fmenu a{
+	color:white;
+	text-decoration:none;
+	display:block;
+	background-color:#17a2b8;
+	height:50px;
+	text-align:center;
+	padding-top: 18px;
+	border-radius: 10px;
+}
+
+.banner{
+	background-image:url('../photos/Edu1.png');
+	height: 500px;
+	width: 940px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+
+p{
+	color: black;
+	text-align: center;
+	font-size: 15px;
+}
+
+.about{
+	background-color: black;
+	height: 40px;
+	color: white;
+	text-align: center;
+	padding-top: 14.5px;
+	margin-top: 5px;
+	box-shadow:0px 0px 5px;
+}
+
+p{
+	text-align: center;
+	/*font-family:sans-serif;*/
+	/*float: right;*/
+	font-size: 15px;
+	text-align: justify;
+}
+
+.section{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 14.5px;
+	margin-top: 5px;
+	box-shadow:0px 0px 5px;
+	padding-top: 5px;
+}
+
+.contact{
+	background-color: #b0cb1f;
+	height: 125px;
+	text-align:center;
+	color: white;
+	margin-bottom: 50px;
+}
+.back{
+	background-image:url('../photos/Edu1.png');
+	height: 500px;
+	width:940px;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+}
+
+.back1{
+	background-image: url('../photos/Edu1.png');
+	height: 500px;
+	width:940px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+}
+
+.product{
+	width:700px;
+	height:150px;
+	background-color:#ABDCF1;
+	text-align:center;
+	font-size:40px;
+	padding-top: 40px;
+}
+
+.productbanner{
+	background-image:url('../photos/Edu1.png');
+	height: 500px;
+	width: 940px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+/*.carda{
+	width: 940px;
+	height: 750px;
+	margin:auto;
+	display: flex;
+	position:relative;
+	top: 50px;
+	justify-content: center;
+	align-items: center;
+	padding-right: 430px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}*/
+
+/*.carda img{
+	margin-top: 50px;
+	width: 50px;
+	justify-content: center;
+	align-items: center;
+	margin-right: -431px;
+}*/
+
+.card{
+	background-image: url('../photos/play.jpg');
+	background-repeat: no-repeat;
+	background-color:white;
+	height: 250px;
+	width: 800px;
+	margin:auto;
+	display: flex;
+	position:relative;
+	top: 50px;
+	justify-content: center;
+	align-items: center;
+	padding-right: 411px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.card1{
+	background-image: url('../photos/play.jpg');
+	background-color:white;
+	height: 250px;
+	width: 800px;
+	margin:auto;
+	display: flex;
+	position:relative;
+	top: 50px;
+	justify-content: center;
+	align-items: center;
+	padding-right: 412px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.card2{ 
+	background-image: url('../photos/facility-2.jpg');
+	background-repeat: no-repeat;
+	background-color:white;
+	height: 250px;
+	width: 800px;
+	margin:auto;
+	display: flex;
+	position:relative;
+	top: 50px;
+	justify-content: center;
+	align-items: center;
+	padding-right: 418px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.card3{
+	background-image: url('../photos/primary.jpg');
+	background-repeat: no-repeat;
+	background-color:white;
+	height: 250px;
+	width: 800px;
+	margin:auto;
+	display: flex;
+	position:relative;
+	top: 50px;
+	justify-content: center;
+	align-items: center;
+	padding-right: 430px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.card4{
+	background-image: url('../photos/highschool.png');
+	background-repeat: no-repeat;
+	background-color:white;
+	height: 250px;
+	width: 800px;
+	margin:auto;
+	display: flex;
+	position:relative;
+	top: 50px;
+	/*justify-content: center;
+	align-items: center;*/
+	padding-right: 430px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.card5{
+	background-color:white;
+	height: 260px;
+	width: 230px;
+	position:relative;
+	top: 50px;
+	justify-content: center;
+	align-items: center;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+	border-radius: 10px;
+	padding-left: 11px;
+	padding-top: 11px;
+}
+
+/*.card{
+	height: 50px;
+	background-color: white;
+}*/
+
+.course{
+	background-color:yellow;
+	height: 800px;
+}
+
+.h2{
+	font-family: sans-serif;
+}
+
+.scard3{
+	background-color: yellow;
+}
+
+button{
+	border-radius: 10px;
+	width: 100px;
+	height: 40px;
+	background-color: #ABDCF1;
+}
+
+.feedback img{
+	border-radius:10px;
+	width: 209px;
+}
+
+
+.icon img{
+	width:85px;
+	height: 80px;
+	border-radius: 64px;
+	margin-left: 80px;
+	margin-top:25px;
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.footer{
+	height:150px;
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top:55px;
+}
+
+h3{
+	text-decoration: none;
+	text-align: center;
+}
+
+.card li{
+	color: black;
+	text-align: center;
+	float: right;
+	margin-right: -460px;
+	margin-top: -21px;
+}
+
+.card1 li{
+	color: black;
+	text-align: center;
+	float: right;
+	margin-right: -460px;
+	margin-top: -21px;
+}
+
+.card2 li{
+	color: black;
+	text-align: center;
+	float: right;
+	margin-right: -460px;
+	margin-top: -21px;
+}
+
+.card3 li{
+	color: black;
+	text-align: center;
+	float: right;
+	margin-right: -460px;
+	margin-top: -21px;
+}
+
+.card4 li{
+	color: black;
+	text-align: center;
+	float: right;
+	margin-right: -676px;
+	margin-top: 35px;
+}
+
+.contact{
+	width: 460px;
+}
+
+.head1{
+	color: black;
+}
+
+label{
+	color: black;
+}
+
+.mobile{
+	width: 17px;
+	padding-top: 2px;
+}
